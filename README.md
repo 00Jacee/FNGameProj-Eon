@@ -23,9 +23,26 @@ Here are my dms (Jace) with greenwood exported as its not in that zip:
 
 [https://drive.google.com/file/d/1gHpNplbwHej8TuHji5SfM0kbSz6Bbg2f/view?usp=sharing](https://drive.google.com/file/d/1gHpNplbwHej8TuHji5SfM0kbSz6Bbg2f/view?usp=sharing)
 
-**DMs with Fontaine:**
+----------------------------------------------------------------------------------------
+
+**DMs with Fontaine**
+
+Claiming he has the right to shout out Fontaine's full name and publicly humiliate him after exposing him for scamming
 
 [Download the 10 Messages (HTML Export)](https://drive.google.com/file/d/1tOxpzvyAa9RLJ15dka01WElk136GzWZq/view?usp=sharing)
+
+----------------------------------------------------------------------------------------
+
+
+**Inappropriate Sexual Discussion During Stellar vc**
+
+Greenwood discussing sexual topics during a Stellar vc session in front of an audience that included younger individuals.
+
+https://drive.google.com/file/d/1Hate--mSlaHNKz0WV2kFQqCCv_doH7WR/view?usp=sharing
+
+----------------------------------------------------------------------------------------
+
+## The Truth:
 
 Greenwood made inappropriate sexual comments towards someone underage, which are documented in the video. The one-hour timestamp difference is because the recorder was in a different timezone.
 
