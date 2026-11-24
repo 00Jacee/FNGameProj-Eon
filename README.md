@@ -54,7 +54,7 @@ He also talked badly about me and Jace when confronted about refusing to pay us,
 
 This isn't his first incident involving modders either. Previous names include Murilo, Delayed, Revi, and Bengio. Now it's me and Jace.
 
-We were owed **$334.50 USD**. After telling him we would open-source our completed work if he refused to pay, he finally sent a **$300 CAD gift card worth approximately $208 USD**, then cut contact.
+We were owed **$334.50 USD**. After telling him we would open-source our completed work if he refused to pay, he finally sent a **$300 CAD gift card worth approximately $208 USD**, then we cut contact.
 
 He later argued that we only specified "$", despite previously acknowledging that one of us was American. The screenshot below confirms that USD was being discussed.
 
