@@ -25,7 +25,7 @@ Here are my dms (Jace) with greenwood exported as its not in that zip:
 
 **DMs with Fontaine:**
 
-[Download the 10 Messages (HTML Export)](https://chatgpt.com/f9722851-02ad-4bff-b155-7b00e88b09b8)
+[Download the 10 Messages (HTML Export)](https://drive.google.com/file/d/1tOxpzvyAa9RLJ15dka01WElk136GzWZq/view?usp=sharing)
 
 Greenwood made inappropriate sexual comments towards someone underage, which are documented in the video. The one-hour timestamp difference is because the recorder was in a different timezone.
 
