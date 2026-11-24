@@ -1,26 +1,11 @@
-# FNGameProj-17.50
-> This is a Unreal Project for modding a old Version of Fortnite (17.50) which has every c++ class recreated
+*You may use this UProject all you want, no credits needed. Idk where the base heads went lowk u can fix that urself just import ur own. I basically did everything for this uproject so its my work to open source. Of course primary did too but hes also included with this.*
 
-## How To use
 
-#### Installation
 
-All desktop editions of [Visual Studio 2019+]((http://www.visualstudio.com/products/visual-studio-community-vs)) can build this Project
+***AES Key for their paks: 0x9D5D159B8342065F8C9065FCC22A9F16B834BE20EB88BDC8DB1738292EE7EDF8***
 
-To install the correct components for this Project , make sure the Game Development with C++ workload is checked. Under the Installation Details section on the right, also choose the following components:
--   **C++ profiling tools**
--   **Windows 10 SDK** (10.0.18362 or newer)
--   **Unreal Engine Installer**
-Right click the *FortniteGame.uproject* and Switch Unreal Engine version... to the coressponding unreal version for this Project which can be found here - not yet
+This AES key can be used to decrypt their paks, use them on your own backend, view them in fmodel, etc. I got this in maybe 30 seconds lol was not hard at all. Maybe next time don't replace your modders with a "Autoport" plugin as shown in your paks through fmodel and pay them what they are actually owed, instead of stalling, blackmailing, and ultimately underpaying us.
 
-Right click the *FortniteGame.uproject* and Generate Visual Studio Project Files then open the *FortniteGame.sln* and build the Project with Visual Studio
+**Here is some proof for the stuff below: https://drive.google.com/file/d/17_tWrGww5eRCbEJB9gSgYWBGlwnwRZ82/view?usp=sharing** 
 
-Now launch the Project by launching the *FortniteGame.uproject*
-
----
-## Credit
-
-- [Zylox](https://twitter.com/zyloxmods) - Code fixes and additions
-- [boredcrow24](https://twitter.com/boredcrow24) - Code fixes and additions
-- [RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS) - UHT Dump
-- [UE4GameProjectGenerator](https://github.com/Buckminsterfullerene02/UE4GameProjectGenerator) - Project generation
+wouldnt connect with eon, repeatedly scamming blackmailing and more. Lets start with the sexual comments he made to someone underage in the video its the same time but the user who recorded the video was 1hr behind cause of timezones, wasting time/stalling refusing to pay us unless we do something which is blackmail, doxxing earlier yesterday 22nd nov 2026 he join a eon public vc and started screaming my friend Fontaines full name there is a clip of him saying his name but it would be better not too as its fontaine personal info and would be better for it not to be out here, talking shit about me and jace cause he was refusing to pay us and when he was confronted of us "skidding" he said you talk to much cause we didnt skid anything, also isnt the first time he has scammed modders in the past murilo/delayed/revi/bengio now me and jace, and in the end when he realized he had to pay us cause we said if we dont get paid we will open source our work that we did, he paid us in a 300 dollar candian gift card when we were owed 334.50 usd so he comes out and paid 208 usd and cut contact with us. He also claims that we said $ which could mean lots of currencies, which is true, but in a message above he confirms that one of us is American, not Canadian, or anything else. In the end he tries to play the victim card as usual, classic thing to do.
